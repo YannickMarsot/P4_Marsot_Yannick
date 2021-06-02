@@ -1,0 +1,56 @@
+_langue non défini (google referencement et accessibilité) check
+
+_Pas de titre page 1? 
+pas de keywords dans page 2
+h3 à la place des h2 optimiser keywords dans le texte?-> Optimisation keyword
+
+_pas de Header, main, footer (Seo et accessibilité) check
+
+_liens dans le footer "douteux" (black hat) check
+
+_image trop grandes par rapport aux conteneur (perfomance)
+
+format images (perfomance) passer en "webp"? check
+
+definir tailles img with et height en responsive -> Optimisation img
+
+_Ensure text remains visible during webfont load? texte invisible durant le chargement? (perfommance)
+check
+
+_minifier les fichiers css et js de la page web pour améliorer les perfomances
+_contraste fond pas assez élevé
+
+
+
+--Version mobile mal optimisé--
+_meta-description vide à remplir check 
+
+_font size <12px il faudrait plus (seo et accessibilité) check
+
+_liens footer trop proches les uns des autres (seo et accessibilité)
+ 
+_textes dans les images coupé dans la version mobile (design non responsive remplacer par texte+ accessibilité)
+
+faire un screenshot de lighthouse pour les perfomances avant après en mobile et dekstop
+pour les citations trouver différentes souces comme W3C ou light house
+
+_texture papier z index au dessus du texte (contraste degueu) 
+
+_overlay carrousel qui marche pas 
+
+_changer contraste avec bootstrap
+
+_changer class pour id social (réseaux sociaux) (accessibilité)
+
+
+(class bootstrap 3 différente de Bootstrap 5)
+
+
+<div class="row voffset-lg voffset">
+              <div class="col-xs-12 col-md-8 col-md-offset-2 text-center">
+                <img
+                  alt="agence web, agence web paris, web design paris, stratégie web"
+                  src="img/citation.webp"
+                />
+              </div>
+            </div>
