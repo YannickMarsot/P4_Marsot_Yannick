@@ -28,30 +28,22 @@ _meta-description vide à remplir check
 
 _font size <12px il faudrait plus (seo et accessibilité) check
 
-_liens footer trop proches les uns des autres (seo et accessibilité)
+_liens footer trop proches les uns des autres (seo et accessibilité) check
  
-_textes dans les images coupé dans la version mobile (design non responsive remplacer par texte+ accessibilité)
+_textes dans les images coupé dans la version mobile (design non responsive remplacer par texte+ accessibilité) check
 
 faire un screenshot de lighthouse pour les perfomances avant après en mobile et dekstop
 pour les citations trouver différentes souces comme W3C ou light house
 
-_texture papier z index au dessus du texte (contraste degueu) 
+questions:
 
-_overlay carrousel qui marche pas 
+_texture papier z index au dessus du texte (contraste degueu) ?
 
-_changer contraste avec bootstrap
+_overlay carrousel qui marche pas ? (class bootstrap 3 différente de Bootstrap 5)
 
-_changer class pour id social (réseaux sociaux) (accessibilité)
+_changer contraste avec bootstrap? (marche pas)
 
+_changer class pour id social (réseaux sociaux) (accessibilité) check
+les mettres bien avec bootstrap?
 
-(class bootstrap 3 différente de Bootstrap 5)
-
-
-<div class="row voffset-lg voffset">
-              <div class="col-xs-12 col-md-8 col-md-offset-2 text-center">
-                <img
-                  alt="agence web, agence web paris, web design paris, stratégie web"
-                  src="img/citation.webp"
-                />
-              </div>
-            </div>
+_minify avec vstudio suppr prev fichier?
