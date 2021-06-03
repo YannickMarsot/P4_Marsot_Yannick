@@ -2,7 +2,7 @@ _langue non défini (google referencement et accessibilité) check
 
 _Pas de titre page 1? 
 pas de keywords dans page 2
-h3 à la place des h2 optimiser keywords dans le texte?-> Optimisation keyword
+h3 à la place des h2 optimiser keywords dans le texte?-> Optimisation keyword Check
 
 _pas de Header, main, footer (Seo et accessibilité) check
 
@@ -18,6 +18,7 @@ _Ensure text remains visible during webfont load? texte invisible durant le char
 check
 
 _minifier les fichiers css et js de la page web pour améliorer les perfomances
+
 _contraste fond pas assez élevé
 
 
