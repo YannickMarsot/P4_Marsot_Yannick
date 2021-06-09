@@ -40,6 +40,7 @@ questions:
 _texture papier z index au dessus du texte (contraste degueu) ?
 
 _overlay carrousel qui marche pas ? (class bootstrap 3 différente de Bootstrap 5)
+essayer de mettre carroussel dans une modal? 
 
 _changer contraste avec bootstrap? (marche pas)
 

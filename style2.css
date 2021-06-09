@@ -1,5 +1,5 @@
 footer p,
-footer a {
-  color: #373737;
-  font-weight: bold;
+footer a,
+footer span {
+  color: #242424 !important;
 }
