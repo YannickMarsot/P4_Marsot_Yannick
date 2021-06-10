@@ -1,5 +1,7 @@
 footer p,
 footer a,
+a#cta-hero,
+a#cta-hero2,
 footer span {
   color: #242424 !important;
 }
